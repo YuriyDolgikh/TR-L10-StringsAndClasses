@@ -1,4 +1,4 @@
-package TwoWordsToOne;
+package twoWordsToOne;
 
 public class TwoWordsToOneApp {
     public static void main(String[] args) {

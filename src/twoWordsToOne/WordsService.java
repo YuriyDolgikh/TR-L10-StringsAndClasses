@@ -1,4 +1,4 @@
-package TwoWordsToOne;
+package twoWordsToOne;
 
 import utils.UserInput;
 
